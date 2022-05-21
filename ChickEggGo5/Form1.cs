@@ -46,6 +46,7 @@ namespace ChickEggGo5
             }
         }
 
+        //TODO: not used "lock", LINQ, ThreadSleep
         private void Button2_Click(object sender, EventArgs e)
         {
             try
