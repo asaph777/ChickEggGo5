@@ -30,7 +30,7 @@ namespace ChickEggGo5
             {
                 item.Obtain();
                 item.Crack();
-                item.Discard();
+                item.Discard();//TODO: don't call
                 item.Cook();
                 item.Dispose();
             }

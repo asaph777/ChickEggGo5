@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace ChickEggGo5
 {
+    //TODO: Drink implemented IMenuItem, so we don't need implement it again.
     sealed class CocaCola : Drink, IMenuItem
     {
 
